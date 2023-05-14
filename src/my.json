@@ -2,248 +2,309 @@
   "centers": [
     {
       "name": "University of Texas MD Anderson Cancer Center",
+      "image": "https://med.uth.edu/medped/wp-content/uploads/sites/32/2018/09/MDA1.jpg",
       "city": "Houston",
       "state": "TX",
       "rating": "100",
-      "Contact": [{
+      "patients": "33,815",
+      "contact": {
         "phone": "(713) 792-2121",
-        "location": "1515 Holcombe Boulevard, Unit 1491 Houston, TX 77030-4000"
-    }]
+        "location": "1515 Holcombe Boulevard, Unit 1491 Houston, TX 77030-4000",
+        "buildingCreated": ""
+      }
     },
     {
       "name": "Memorial Sloan Kettering Cancer Center",
+      "image": "https://patch.com/img/cdn20/users/22892005/20190404/024037/styles/raw/public/MSK%20Nassau%20Exterior.jpg",
       "city": "New York City",
       "state": "NY",
       "rating": "85.7",
-      "Contact": [
+      "contact": {
         "phone": "1-205-729-7952",
         "location": "1275 York Avenue New York, NY 10065-6007"
-      ]
+      }
     },
     {
       "name": "Mayo Clinic",
+      "image": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2019/10/28/15/57/roch-hero-828x386-3714034-0006.jpg?la=en&hash=BE3BADC0E9C99C515B7559EC06F31533BA94EC8D",
       "city": "Rochestor",
       "state": "MN",
       "rating": "79.9",
-      "Contact": [{
+      "contact": {
         "phone": "(507) 516-3231",
         "location": "1216 Second Street SW Rochester, MN 55902-1906"
-    }]
+      }
     },
     {
       "name": "Dana-Farber Cancer Institute",
+      "image": "https://www.dana-farber.org/ui/images/img-footer-building.png",
+
       "city": "Boston",
       "state": "MA",
       "rating": "76",
-      "Contact": [{
+      "contact": {
         "phone": "(877) 442-3324",
-        "location": "450 Brookline Avenue Boston, MA 02215",
-    }]
+        "location": "450 Brookline Avenue Boston, MA 02215"
+      }
     },
     {
       "name": "UCLA Medical Center",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/UCLA_Reagan_Medical_Center.JPG",
+
       "city": "Los Angeles",
       "state": "CA",
       "rating": "73.2",
-      "Contact": [{
+      "contact": {
         "phone": "(310) 825-9111",
-        "location": "757 Westwood Plaza Los Angeles, CA 90095-8358",
-    }]
+        "location": "757 Westwood Plaza Los Angeles, CA 90095-8358"
+      }
     },
     {
       "name": "Cleveland Clinic",
+      "image": "https://my.clevelandclinic.org/-/scassets/images/org/locations/wayfinding/cleveland-clinic-main-campus?mw=430&hash=E8E1DCFDCB61F41F9C97F9DDCDF43EBE60B87234",
+
       "city": "Cleveland",
       "state": "OH",
       "rating": "71.9",
-      "Contact": [{
+      "contact": {
         "phone": "(216) 444-2200",
-        "location": "9500 Euclid Avenue Cleveland, OH 44195-5108",
-    }]
+        "location": "9500 Euclid Avenue Cleveland, OH 44195-5108"
+      }
     },
     {
       "name": "City of Hope Comprehensive Cancer Center",
+      "image": "https://www.cityofhope.org/sites/www/files/styles/huge_coh_generic_hero_1440x650/public/2022-04/032719_Helford-3662_WWA_hero.jpeg?h=966f6c1f&itok=XY0UFaOP",
+
       "city": "Duarte",
       "state": "CA",
       "rating": "69.9",
-      "Contact": [{
+      "contact": {
         "phone": "1-984-266-3348",
-        "location": "1500 East Duarte Road Duarte, CA 91010-3012",
-    }]
+        "location": "1500 East Duarte Road Duarte, CA 91010-3012"
+      }
     },
     {
       "name": "Hospitals of the University of Pennsylvania-Penn Presbyterian",
+      "image": "https://www.pennmedicine.org/-/media/images/locations/buildings/ppmc_trauma_center_ner_0323_01.ashx?mw=620&mh=408",
+
       "city": "Philadelphia",
       "state": "PA",
       "rating": "69.2",
-      "Contact": [{
+      "contact": {
         "phone": "(215) 662-4000",
-        "location": "3400 Spruce Street Philadelphia, PA 19104-4206",
-    }]
+        "location": "3400 Spruce Street Philadelphia, PA 19104-4206"
+      }
     },
     {
       "name": "Northwestern Medicine-Northwestern Memorial Hospital",
+      "image": "https://www.nm.org/-/media/northwestern/quality/images/northwestern-memorial-hospital-quality.jpg?h=385&w=916&la=en&hash=F60998F1EEAB597E39CDD109FB0FA7FC",
+
       "city": "Chicago",
       "state": "IL",
       "rating": "68.9",
-      "Contact": [{
+      "contact": {
         "phone": "(312) 926-2000",
-        "location": "251 East Huron Street Chicago, IL 60611-2908",
-    }]
+        "location": "251 East Huron Street Chicago, IL 60611-2908"
+      }
     },
     {
       "name": "Barnes-Jewish Hospital",
+      "image": "https://generalmedicine.wustl.edu/files/2019/09/Barnes-Jewish-Hospital-2.jpg"9+02
       "city": "Saint Louis",
       "state": "MO",
       "rating": "68.4",
-      "Contact": [{
+      "contact": {
         "phone": "(314) 747-3000",
-        "email": "1 Barnes-Jewish Hospital Plaza Saint Louis, MO 63110-1003",
-    }]
+        "email": "1 Barnes-Jewish Hospital Plaza Saint Louis, MO 63110-1003"
+      }
     },
     {
       "name": "Cedars-Sinai Medical Center",
+      "image": "https://www.cedars-sinai.org/content/dam/cedars-sinai/about-us/images/about-hero1-v2.jpg",
+
       "city": "Los Angeles",
       "state": "CA",
       "rating": "67.7",
-      "Contact": [
+      "contact": {
         "phone": "(800) 233-2771",
-        "location": "8700 Beverly Boulevard Los Angeles, CA 90048-1865",
-      ]
+        "location": "8700 Beverly Boulevard Los Angeles, CA 90048-1865"
+      }
     },
-    {
+    { 
       "name": "New York-Presbyterian Hospital-Columbia and Cornell",
+      "image": "https://news.weill.cornell.edu/sites/default/files/styles/news_story_featured_image/public/story_featured_images/wcm_greenberg_pavilion_exterior_2015_001.png?itok=AN1mdKLj&c=7f335e93d1589899f01ad9bc2c8c1401",
+
       "city": "New York",
       "state": "NY",
       "rating": "67.6",
-      "Contact": [{
+      "contact": {
         "phone": "1-445-545-2492",
-        "location": "525 East 68th Street New York, NY 10065-4870",
-    }]
+        "location": "525 East 68th Street New York, NY 10065-4870"
+      }
     },
     {
       "name": "Johns Hopkins Hospital",
+      "image": "https://www.hopkinsmedicine.org/sebin/n/l/jhh-bridge.jpg",
+
       "city": "Baltimore",
       "state": "MD",
       "rating": "67.4",
-      "Contact": [{
+      "contact": {
         "phone": "(410) 955-5000",
-        "location": "1800 Orleans Street Baltimore, MD 21287-2182",
-    }]
+        "location": "1800 Orleans Street Baltimore, MD 21287-2182"
+      }
     },
     {
       "name": "University of Chicago Medical Center",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CHICAGOHOSPITAL1.JPG",
+
       "city": "Chicago",
       "state": "IL",
       "rating": "66.4",
-      "Contact": [{
+      "contact": {
         "phone": "1-844-939-3672",
-        "location": "5841 South Maryland Avenue Chicago, IL 60637-1443",
-    }]
+        "location": "5841 South Maryland Avenue Chicago, IL 60637-1443"
+      }
     },
     {
       "name": "Stanford Health Care-Stanford Hospital",
+      "image": "https://med.stanford.edu/content/dam/sm/hospitalmedicine/images/BannerPhotos/new-stanford-hospital.jpg",
+
       "city": "Stanford",
       "state": "CA",
-      "rating" "66.2",
-      "Contact": [{
+      "rating": "66.2",
+      "contact": {
         "phone": "(650) 723-4000",
-        "location": "300 Pasteur Drive Stanford, CA 94305",
-    }]
+        "location": "300 Pasteur Drive Stanford, CA 94305"
+      }
     },
     {
       "name": "UCSF Health-UCSF Medical Center",
+      "image": "https://www.ucsfhealth.org/-/media/project/ucsf/ucsf-health/location/location-hero/mount-zion-2x.jpg",
+
       "city": "San Francisco",
       "state": "CA",
       "rating": "66.2",
-      "Contact": [{
-        "phone": ,
-        "location": "",
-    }]
+      "contact": {
+        "phone": "(415) 476-1000",
+        "location": "500 Parnassus Avenue San Francisco, CA 94143-0296"
+      }
     },
     {
       "name": "UPMC Presbyterian Shadyside",
+      "image": "https://www.neurosurgery.pitt.edu/sites/default/files/puh.jpg",
+
       "city": "Pittsburgh",
       "state": "PA",
       "rating": "64.3",
-      "Contact": [{
+      "contact": {
         "phone": "(415) 476-1000",
-        "location": "500 Parnassus Avenue San Francisco, CA 94143-0296",
-    }]
+        "location": "500 Parnassus Avenue San Francisco, CA 94143-0296"
+      }
     },
     {
       "name": "USC Norris Comprehensive Cancer Center",
+      "image": "https://www.sbpdiscovery.org/sites/default/files/2021-08/usc-norris-cancer-center-partnership_n.jpg",
+
       "city": "Los Angeles",
       "state": "CA",
       "rating": "64.0",
-      "Contact": [{
+      "contact": {
         "phone": "(323) 865-3000",
-        "location": "1441 Eastlake Avenue Los Angeles, CA 90089-0112",
-    }]
+        "location": "1441 Eastlake Avenue Los Angeles, CA 90089-0112"
+      }
     },
     {
       "name": "NYU Langone Hospitals",
+      "image": "https://med.nyu.edu/sites/default/files/2022-11/main-homepage-top-ranking-statistic-component.jpg",
+
       "city": "New York",
       "state": "NY",
       "rating": "62.9",
-      "Contact": [
-        "phone": 1-573-273-4443,
-        "location": "550 First Avenue New York, NY 10016-6402",
-      ]
-    }{
+      "contact": {
+        "phone": "1-573-273-4443",
+        "location": "550 First Avenue New York, NY 10016-6402"
+      }
+    },
+    {
       "name": "UC San Diego Health-La Jolla and Hillcrest Hospitals",
+      "image": "https://health.universityofcalifornia.edu/sites/default/files/styles/600x400/public/2021-05/JMC-clouds1.jpg?h=10d202d3&itok=GIrag80T",
+
       "city": "La Jolla",
       "state": "CA",
-      "rating" "62.8",
-      "Contact": [
-        "phone": (858) 657-7000,
-        "location": "9300 Campus Point Dr. La Jolla, CA 92037",
-      ]
-    }{
+      "rating": "62.8",
+      "contact": {
+        "phone": "(858) 657-7000",
+        "location": "9300 Campus Point Dr. La Jolla, CA 92037"
+      }
+    },
+    {
       "name": "Massachusetts General Hospital",
+      "image": "https://www.massgeneralbrigham.org/content/mgb-global/global/en/patient-care/international/about/massachusetts-general-hospital/_jcr_content/root/container_924996778/hero_banner.coreimg.jpeg/1666979363752/international-mgh-building-1448x1110.jpeg",
+
       "city": "Boston",
       "state": "MA",
-      "rating" "61.0",
-      "Contact": [
-        "phone": (617) 726-2000,
-        "location": "55 Fruit Street Boston, MA 02114-2696",
-      ]
-    }{
+      "rating": "61.0",
+      "contact": {
+        "phone": "(617) 726-2000",
+        "location": "55 Fruit Street Boston, MA 02114-2696"
+      }
+    },
+    {
       "name": "Duke University Hospital",
+      "image": "https://corporate.dukehealth.org/sites/default/files/api/images/aspect:1.62-width:375-position:center/2019-12/1505_DUH_Ext_06841R%20(2)%20copy_0.jpg",
+
       "city": "Durham",
       "state": "NC",
-      "rating" "60.5",
-      "Contact": [
-        "phone": (919) 684-8111,
-        "location": "2301 Erwin Road Durham, NC 27705-4699",
-      ]
-    }{
+      "rating": "60.5",
+      "contact": {
+        "phone": "(919) 684-8111",
+        "location": "2301 Erwin Road Durham, NC 27705-4699"
+      }
+    },
+    {
       "name": "Mayo Clinic-Phoenix",
+      "image": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2020/06/the-Mayo-Clinic-Arizona-campus-at-sunset-with-symbolic-blue-lighting-in-the-front-of-the-building-16x9-1.jpg",
+
       "city": "Phoenix",
       "state": "AZ",
-      "rating" "60.4",
-      "Contact": [
-        "phone": (877) 794-1408,
-        "location": "5777 East Mayo Boulevard Phoenix, AZ 85054-4502",
-      ]
-    }{
+      "rating": "60.4",
+      "contact": {
+        "phone": "(877) 794-1408",
+        "location": "5777 East Mayo Boulevard Phoenix, AZ 85054-4502"
+      }
+    },
+    {
       "name": "James Cancer Hospital and Solove Research Institute",
+      "image": "https://cancer.osu.edu/-/media/images/shared/locations/wexner/locations/james-cancer-hospital-and-solove-research-institute.jpg",
+
       "city": "Columbus",
       "state": "OH",
-      "rating" "60.3",
-      "Contact": [
-        "phone": (614) 293-5066,
-        "location": "460 West Tenth Avenue Columbus, OH 43210-1280",
-      ]
-    }{
+      "rating": "60.3",
+      "contact": {
+        "phone": "(614) 293-5066",
+        "location": "460 West Tenth Avenue Columbus, OH 43210-1280"
+      }
+    },
+    {
       "name": "H. Lee Moffitt Cancer Center and Research Institute",
+      "image": "https://moffitt.org/media/14170/moffitt-facade-890.jpg
+      
+      
+      
+      
+      
+      
+      
+      ",
+
       "city": "Tampa",
       "state": "FL",
-      "rating" "60.2",
-      "Contact": [
-        "phone": (813) 592-3894,
-        "location": "12902 USF Magnolia Drive Tampa, FL 33612-9497",
-      ]
+      "rating": "60.2",
+      "contact": {
+        "phone": "(813) 592-3894",
+        "location": "12902 USF Magnolia Drive Tampa, FL 33612-9497"
+      }
     }
-
   ]
 }
