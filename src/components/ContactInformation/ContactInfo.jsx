@@ -1,4 +1,4 @@
-const contactInfo (props) => {
+const contactInfo = (props) => {
   return (
     <div>
     <h4>{props.contact.phone}</h4>
