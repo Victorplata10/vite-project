@@ -2,11 +2,11 @@
   "centers": [
     {
       "name": "University of Texas MD Anderson Cancer Center",
-      "image": "https://med.uth.edu/medped/wp-content/uploads/sites/32/2018/09/MDA1.jpg",
+      "image": "https://www.utsystem.edu/sites/default/files/Pavilion_354A8405.jpg",
       "city": "Houston",
       "state": "TX",
       "rating": "100",
-      "specialty": "",
+      "specialty": "Urology",
       "contact": {
         "phone": "(713) 792-2121",
         "location": "1515 Holcombe Boulevard, Unit 1491 Houston, TX 77030-4000"
@@ -18,7 +18,7 @@
       "city": "New York City",
       "state": "NY",
       "rating": "85.7",
-      "specialty": "",
+      "specialty": "Urology",
       "contact": {
         "phone": "1-205-729-7952",
         "location": "1275 York Avenue New York, NY 10065-6007"
@@ -30,7 +30,7 @@
       "city": "Rochestor",
       "state": "MN",
       "rating": "79.9",
-      "specialty": "",
+      "specialty": "Diabetes & Endocrinology",
       "contact": {
         "phone": "(507) 516-3231",
         "location": "1216 Second Street SW Rochester, MN 55902-1906"
@@ -43,7 +43,7 @@
       "city": "Boston",
       "state": "MA",
       "rating": "76",
-      "specialty": "",
+      "specialty": "Pediatric Cancer",
       "contact": {
         "phone": "(877) 442-3324",
         "location": "450 Brookline Avenue Boston, MA 02215"
@@ -56,7 +56,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "rating": "73.2",
-      "specialty": "",
+      "specialty": "Ear, Nose & Throat",
       "contact": {
         "phone": "(310) 825-9111",
         "location": "757 Westwood Plaza Los Angeles, CA 90095-8358"
@@ -69,7 +69,7 @@
       "city": "Cleveland",
       "state": "OH",
       "rating": "71.9",
-      "specialty": "",
+      "specialty": "Geriatrics",
       "contact": {
         "phone": "(216) 444-2200",
         "location": "9500 Euclid Avenue Cleveland, OH 44195-5108"
@@ -82,7 +82,7 @@
       "city": "Duarte",
       "state": "CA",
       "rating": "69.9",
-      "specialty": "",
+      "specialty": "null",
       "contact": {
         "phone": "1-984-266-3348",
         "location": "1500 East Duarte Road Duarte, CA 91010-3012"
@@ -95,7 +95,7 @@
       "city": "Philadelphia",
       "state": "PA",
       "rating": "69.2",
-      "specialty": "",
+      "specialty": "Ear, Nose & Throat",
       "contact": {
         "phone": "(215) 662-4000",
         "location": "3400 Spruce Street Philadelphia, PA 19104-4206"
@@ -108,7 +108,7 @@
       "city": "Chicago",
       "state": "IL",
       "rating": "68.9",
-      "specialty": "",
+      "specialty": "Gastroenterology & GI Surgery",
       "contact": {
         "phone": "(312) 926-2000",
         "location": "251 East Huron Street Chicago, IL 60611-2908"
@@ -120,7 +120,7 @@
       "city": "Saint Louis",
       "state": "MO",
       "rating": "68.4",
-      "specialty": "",
+      "specialty": "Obstetrics & Gynecology",
       "contact": {
         "phone": "(314) 747-3000",
         "email": "1 Barnes-Jewish Hospital Plaza Saint Louis, MO 63110-1003"
@@ -133,7 +133,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "rating": "67.7",
-      "specialty": "",
+      "specialty": "Gastroenterology & GI Surgery",
       "contact": {
         "phone": "(800) 233-2771",
         "location": "8700 Beverly Boulevard Los Angeles, CA 90048-1865"
@@ -146,7 +146,7 @@
       "city": "New York",
       "state": "NY",
       "rating": "67.6",
-      "specialty": "",
+      "specialty": "Neurology & Neurosurgery",
       "contact": {
         "phone": "1-445-545-2492",
         "location": "525 East 68th Street New York, NY 10065-4870"
@@ -172,7 +172,7 @@
       "city": "Chicago",
       "state": "IL",
       "rating": "66.4",
-      "specialty": "",
+      "specialty": "Gastroenterology & GI Surgery",
       "contact": {
         "phone": "1-844-939-3672",
         "location": "5841 South Maryland Avenue Chicago, IL 60637-1443"
@@ -185,7 +185,7 @@
       "city": "Stanford",
       "state": "CA",
       "rating": "66.2",
-      "specialty": "",
+      "specialty": "Ear, Nose & Throat",
       "contact": {
         "phone": "(650) 723-4000",
         "location": "300 Pasteur Drive Stanford, CA 94305"
@@ -198,7 +198,7 @@
       "city": "San Francisco",
       "state": "CA",
       "rating": "66.2",
-      "specialty": "",
+      "specialty": "Neurology & Neurosurgery",
       "contact": {
         "phone": "(415) 476-1000",
         "location": "500 Parnassus Avenue San Francisco, CA 94143-0296"
@@ -211,7 +211,7 @@
       "city": "Pittsburgh",
       "state": "PA",
       "rating": "64.3",
-      "specialty": "",
+      "specialty": "Gastroenterology & GI Surgery",
       "contact": {
         "phone": "(415) 476-1000",
         "location": "500 Parnassus Avenue San Francisco, CA 94143-0296"
@@ -224,7 +224,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "rating": "64.0",
-      "specialty": "",
+      "specialty": "Obstetrics & Gynecology",
       "contact": {
         "phone": "(323) 865-3000",
         "location": "1441 Eastlake Avenue Los Angeles, CA 90089-0112"
@@ -237,7 +237,7 @@
       "city": "New York",
       "state": "NY",
       "rating": "62.9",
-      "specialty": "",
+      "specialty": "Neurology & Neurosurgery",
       "contact": {
         "phone": "1-573-273-4443",
         "location": "550 First Avenue New York, NY 10016-6402"
@@ -250,7 +250,7 @@
       "city": "La Jolla",
       "state": "CA",
       "rating": "62.8",
-      "specialty": "",
+      "specialty": "Pulmonology & Lung Surgery",
       "contact": {
         "phone": "(858) 657-7000",
         "location": "9300 Campus Point Dr. La Jolla, CA 92037"
@@ -263,7 +263,7 @@
       "city": "Boston",
       "state": "MA",
       "rating": "61.0",
-      "specialty": "",
+      "specialty": "Ophthalmology",
       "contact": {
         "phone": "(617) 726-2000",
         "location": "55 Fruit Street Boston, MA 02114-2696"
@@ -276,7 +276,7 @@
       "city": "Durham",
       "state": "NC",
       "rating": "60.5",
-      "specialty": "",
+      "specialty": "Ophthalmology",
       "contact": {
         "phone": "(919) 684-8111",
         "location": "2301 Erwin Road Durham, NC 27705-4699"
@@ -289,7 +289,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "rating": "60.4",
-      "specialty": "",
+      "specialty": "Gastroenterology & GI Surgery",
       "contact": {
         "phone": "(877) 794-1408",
         "location": "5777 East Mayo Boulevard Phoenix, AZ 85054-4502"
@@ -302,7 +302,7 @@
       "city": "Columbus",
       "state": "OH",
       "rating": "60.3",
-      "specialty": "",
+      "specialty": "Urology",
       "contact": {
         "phone": "(614) 293-5066",
         "location": "460 West Tenth Avenue Columbus, OH 43210-1280"
@@ -314,7 +314,7 @@
       "city": "Tampa",
       "state": "FL",
       "rating": "60.2",
-      "specialty": "",
+      "specialty": "Ear, Nose & Throat",
       "contact": {
         "phone": "(813) 592-3894",
         "location": "12902 USF Magnolia Drive Tampa, FL 33612-9497"

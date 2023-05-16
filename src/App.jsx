@@ -1,18 +1,14 @@
 import './App.css'
-import centers from './my.json'
-import Center from './components/Centers/Center'
-
+import data from './data.json'
+import Main from './components/Main'
 
 const App = () => {
-
   return (
-    <div>
-      <h1>Hopsital Centers</h1>
-      <div>
-        {centers.map((center) => (
-          <>
-            <Center center={center} key={centers.name}/>
-          </>
+    <div className='App'>
+      <h1 className='title'>Hopsital Centers</h1>
+      <div className='map'>
+        {data.centers.map((center) => (
+            <Main center={center} key={center.name} />
         ))}
       </div>
     </div>
