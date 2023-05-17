@@ -1,3 +1,4 @@
+import './Specialty.css'
 const Specialty = (props) => {
 
   return (
