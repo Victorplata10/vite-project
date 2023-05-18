@@ -10,7 +10,6 @@
   padding: 15px;
   width: 25vw;
   gap: 20px;
-  width: vw;
 }
 
 .layout:hover {
@@ -32,3 +31,16 @@ h2 {
   1px 20px 30px rgba(16, 16, 16, 0.3),
   1px 25px 50px rgba(16, 16, 16, 0.2);
 }
+
+p {
+  font-size: 30px;
+  font-weight: light;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: light;
+}
+
+
+

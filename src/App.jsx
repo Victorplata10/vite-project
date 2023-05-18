@@ -4,7 +4,6 @@ import Main from './components/Main/Main'
 import Nav from './components/Nav/Nav'
 import Footer from './components/Footer/Footer'
 import Title from './components/Title/Title'
-import SideBar from './components/SideBar/SideBar'
 
 const App = () => {
   return (
@@ -17,7 +16,6 @@ const App = () => {
           <Main center={center} key={center.name} />
         ))}
       </div>
-      <SideBar />
       </main>
       
       <Footer />
