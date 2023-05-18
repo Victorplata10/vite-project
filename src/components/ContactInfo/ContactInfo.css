@@ -1,5 +1,9 @@
 .phone {
   text-decoration: underline;
   font-size: 30px;
+}
+
+.location {
+  font-size: 30px;
   font-weight: light;
 }
