@@ -1,4 +1,5 @@
-.size {
-  height: 100px;
-  width: 100px;
-}
+img {
+  width: 20vh;
+  height: 20vh;
+  float: right
+  }

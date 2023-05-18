@@ -1,15 +1,14 @@
 import Images from '../ImageInfo/Images'
 import Specialty from '../Specialty/Specialty'
 import ContactInfo from '../ContactInfo/ContactInfo'
+import './Main.css'
 
 const Main = (props) => {
   return (
-    <div>
+    <div className='layout'>
       <h2>{props.center.name}</h2>
-      <header>
       <Images image={props.center.image} />
-      </header>
-      <p> Rating: {props.center.rating}</p>
+      <p> Rating: {props.center.rating} </p>
       <h4>
         {props.center.city}, {props.center.state}
       </h4>
