@@ -14,11 +14,19 @@ nav {
   font-weight: light;
 }
 
+.doctors :hover {
+  color: white
+}
+
 .cancers {
   font-size: 30px;
   margin: 10px;
   color: white;
   font-weight: light;
+}
+
+.cancers :hover {
+  color: white
 }
 
 .health {
@@ -28,11 +36,19 @@ nav {
   font-weight: light;
 }
 
+.health :hover {
+  color: white
+}
+
 .diet {
   font-size: 30px;
   margin: 10px;
   color: white;
   font-weight: light;
+}
+
+.diet :hover {
+  color: white
 }
 
 .mental {
@@ -42,9 +58,17 @@ nav {
   font-weight: light;
 }
 
+.mental :hover {
+  color: white
+}
+
 .supplements {
   font-weight: light;
   font-size: 30px;
   margin: 10px;
   color: white;
+}
+
+.supplements :hover {
+  color: white
 }

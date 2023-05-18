@@ -1,6 +1,8 @@
 .map {
   display: flex;
   flex-wrap: wrap;
+  font-weight: light;
+
 }
 
 .App {
@@ -8,6 +10,8 @@ display: flex;
 flex-direction: column;
 background-color: #494D5F;
 color: white;
+font-weight: light;
+
 }
 
 
@@ -15,6 +19,8 @@ section {
   display: grid;
   grid-auto-flow: column;
   color: white;
+  font-weight: light;
+
 }
 
 
