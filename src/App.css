@@ -11,57 +11,13 @@ color: white;
 }
 
 
-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;height: 50px;
-  grid-column: span 2;
-  background-color: #8076a3;
-  color: white;
-}
-
 section {
   display: grid;
   grid-auto-flow: column;
   color: white;
 }
 
-.doctors {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
-.cancers {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
-.health {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
-.diet {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
-.mental {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
-.supplements {
-  font-size: 20px;
-  margin: 10px;
-  color: white;
-}
-
+.
 .title {
   text-align: center;
   font-size: 60px;
