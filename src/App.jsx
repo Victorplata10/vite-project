@@ -3,12 +3,13 @@ import data from './data.json'
 import Main from './components/Main/Main'
 import Nav from './components/Nav/Nav'
 import Footer from './components/Footer/Footer'
+import Title from './components/Title/Title'
 
 const App = () => {
   return (
     <div className="App">
       <Nav />
-      <h1 className="title">Hospital Centers</h1>
+      <Title />
       <div className="map">
         {data.centers.map((center) => (
           <Main center={center} key={center.name} />
