@@ -17,6 +17,10 @@ section {
   color: white;
 }
 
+main {
+  display: flex;
+  width: 100vw;
+}
 
 
 
