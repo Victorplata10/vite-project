@@ -2,6 +2,7 @@ import './App.css'
 import data from './data.json'
 import Main from './components/Main/Main'
 import Nav from './components/Nav/Nav'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -13,9 +14,7 @@ const App = () => {
           <Main center={center} key={center.name} />
         ))}
       </div>
-      <section>
-        <footer>"This page was last edited on May 18, 2023 | Designed and devoloped by Victor | Privacy Policy"</footer>
-      </section>
+      <Footer />
     </div>
   )
 }

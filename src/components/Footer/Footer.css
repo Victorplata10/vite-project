@@ -1,0 +1,8 @@
+
+footer {
+  color: white;
+  text-align: center;
+  grid-column: span 2;
+  display: block;
+
+}
